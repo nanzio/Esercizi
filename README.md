@@ -10,8 +10,8 @@
 
 ## Obiettivi v2
 
-- [] Cancella i vecchi feature/hotfix branch
-- [] Gestiamo i conflitti, sentiamoci
-- [] Fai delle modifiche, committa, cambia il testo del commit, e pusha
-- [] Fai delle modifiche, committa, reverta allineando a master
-- [] Fai delle modifiche, committa, allineati a master, pulisci il conteggio dei commit
+- [ ] Cancella i vecchi feature/hotfix branch
+- [ ] Gestiamo i conflitti, sentiamoci
+- [ ] Fai delle modifiche, committa, cambia il testo del commit, e pusha
+- [ ] Fai delle modifiche, committa, reverta allineando a master
+- [ ] Fai delle modifiche, committa, allineati a master, pulisci il conteggio dei commit
